@@ -1,0 +1,11 @@
+*.orig
+*.obj
+*.exe
+*.dll
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+WebApplication1/wwwroot/lib/*
